@@ -1,7 +1,7 @@
 # Contributors
 This is a repository containing a list of contributors for YARC projects (YARG, OpenSource, etc.), with social links.
 
-**If you contributed to any YARC projects, please feel from to open a PR to have your credit shown! Your contribution matters, big or small.**
+**If you contributed to any YARC projects ([listed below](#contributions)), please feel from to open a PR to have your credit shown! Your contribution matters, big or small.**
 
 # 📝 Specifications
 
