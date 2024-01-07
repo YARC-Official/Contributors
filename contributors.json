@@ -1,0 +1,521 @@
+[
+	{
+		"Name": "EliteAsian",
+		"SpecialRole": "Founder",
+		"Socials": {
+			"Twitter": "EliteAsian123",
+			"Twitch": "eliteasian123",
+			"Github": "EliteAsian123",
+			"VideoService": "UC0k5Wnt4vdbbb7ht_74I-Dg",
+			"Discord": "eliteasian",
+			"Email": "eliteasian123@gmail.com",
+			"Website": "https://eliteasian123.github.io"
+		},
+		"Contributions": {
+			"OpenSource": [ "Developer" ],
+			"YARC-Charters": [ "Charter" ],
+			"YARC-Launcher": [ "Developer" ],
+			"YARG": [ "Developer", "Artist" ]
+		}
+	},
+	{
+		"Name": "Kadu",
+		"SpecialRole": "LeadArtist",
+		"Socials": {
+			"Twitter": "kaduyarg",
+			"Twitch": "kaduwaengertner",
+			"Github": "kaduwaengertner",
+			"VideoService": "@kaduwaengertner",
+			"Discord": "kadu"
+		},
+		"Contributions": {
+			"OpenSource": [ "Artist" ],
+			"YARC-Launcher": [ "Artist" ],
+			"YARG": [ "Developer", "Artist" ]
+		}
+	},
+	{
+		"Name": "Synthesize",
+		"SpecialRole": "LeadCharter",
+		"Socials": {
+			"Twitter": "SynthesizeTime",
+			"Twitch": "synthesizetime",
+			"Github": "SynthesizeTime",
+			"VideoService": "UCDGGCLLZxSXrYQtDGFy0BiQ",
+			"Discord": "itzsynth"
+		},
+		"Contributions": {
+			"YARC-Charters": [ "Charter" ]
+		}
+	},
+	{
+		"Name": "RileyTheFox",
+		"SpecialRole": "Maintainer",
+		"Socials": {
+			"Twitter": "RileyTheFoxGH",
+			"Twitch": "RileyTheFoxGH",
+			"Github": "RileyTheFox",
+			"VideoService": "UC0z1fzavZ5mPIs2OSM-6CMg",
+			"Discord": "rileythefox"
+		},
+		"Contributions": {
+			"YARG": [ "Developer" ]
+		}
+	},
+	{
+		"Name": "TheNathannator",
+		"SpecialRole": "Maintainer",
+		"Socials": {
+			"Github": "TheNathannator",
+			"Discord": "thenathannator",
+			"VideoService": "@TheNathannator"
+		},
+		"Contributions": {
+			"YARG": [ "Developer" ]
+		}
+	},
+	{
+		"Name": "Sonicfind",
+		"SpecialRole": "Maintainer",
+		"Socials": {
+			"Twitter": "Sonicfind2",
+			"Github": "Sonicfind",
+			"VideoService": "UCo1yW0tvf5YExIavoNFeaow",
+			"Discord": "sonicfind#6404"
+		},
+		"Contributions": {
+			"YARG": [ "Developer" ]
+		}
+	},
+	{
+		"Name": "The Fat Bastid",
+		"Socials": {
+			"Github": "TheFatBastid",
+			"VideoService": "UCCmx6jiTO-353X8KNaOgb3Q",
+			"Discord": "thefatbastid",
+			"Email": "tfb@sof.ws"
+		},
+		"Contributions": {
+			"YARG": [ "Developer" ]
+		}
+	},
+	{
+		"Name": "grishhung",
+		"Socials": {
+			"Github": "grishhung",
+			"VideoService": "@grishhung2828",
+			"Discord": "grishhung#3460"
+		},
+		"Contributions": {
+			"YARC-Charters": [ "Charter" ],
+			"YARG": [ "Developer" ]
+		}
+	},
+	{
+		"Name": "Venerabela",
+		"Socials": {
+			"Twitter": "Venerabela",
+			"Twitch": "Venerabela",
+			"Github": "Venerabela",
+			"VideoService": "@Venerabela",
+			"Discord": "Venerabela#4709"
+		},
+		"Contributions": {
+			"YARG": [ "Artist" ]
+		}
+	},
+	{
+		"Name": "ieee 802.11ac",
+		"Socials": {
+			"Github": "ieee802dot11ac",
+			"Discord": "ieee802dot11ac"
+		},
+		"Contributions": {
+			"YARG": [ "Developer" ]
+		}
+	},
+	{
+		"Name": "NevesPT",
+		"Socials": {
+			"Twitter": "NevesPT",
+			"Twitch": "NevesPT",
+			"Github": "nevespt",
+			"Discord": "nevespt"
+		},
+		"Contributions": {
+			"YARG": [ "Developer" ]
+		}
+	},
+	{
+		"Name": "DD",
+		"Socials": {
+			"Twitter": "PepeWIthBadgers",
+			"Twitch": "thelucasgamer215",
+			"Github": "thoudankeykang",
+			"VideoService": "UCb8uriNc-V___5dzkbLN4CQ",
+			"Discord": "DD#5749"
+		},
+		"Contributions": {
+			"OpenSource": [ "Developer" ]
+		}
+	},
+	{
+		"Name": "santorfo",
+		"Socials": {
+			"Twitter": "santorfo",
+			"Github": "santorfo",
+			"Discord": "santorfo"
+		},
+		"Contributions": {
+			"YARG": [ "Developer" ]
+		}
+	},
+	{
+		"Name": "Pantotone",
+		"Socials": {
+			"Twitter": "pantotone",
+			"Twitch": "pantotone",
+			"Github": "pantotone"
+		},
+		"Contributions": {
+			"OpenSource": [ "Developer" ],
+			"YARC-Launcher": [ "Developer", "Artist" ],
+			"YARG": [ "Developer", "Artist" ]
+		}
+	},
+	{
+		"Name": "3-UP",
+		"Socials": {
+			"Twitter": "3UP_MK8",
+			"Twitch": "3UP_MK8",
+			"Github": "three-up",
+			"VideoService": "@3-upsarchive385",
+			"Discord": "3_up"
+		},
+		"Contributions": {
+			"YARC-Charters": [ "Charter" ]
+		}
+	},
+	{
+		"Name": "goulart",
+		"Socials": {
+			"Github": "raphaelgoulart",
+			"VideoService": "UC3XvBZwNgvMy7mARnIiJmjA"
+		},
+		"Contributions": {
+			"YARG": [ "Developer" ]
+		}
+	},
+	{
+		"Name": "WalterRalts",
+		"Socials": {
+			"Twitter": "@WalterRalts",
+			"Github": "WalterRalts",
+			"VideoService": "UCfAex9bYhueumzrotwCv8Aw",
+			"Discord": "WalterRalts#3354"
+		},
+		"Contributions": {
+			"YARC-Charters": [ "Charter" ]
+		}
+	},
+	{
+		"Name": "SamuelPalma",
+		"Socials": {
+			"Github": "SamuelPalma",
+			"Discord": "SamuelPalma#1528"
+		},
+		"Contributions": {
+			"YARG": [ "Developer" ]
+		}
+	},
+	{
+		"Name": "Roystermeat",
+		"Socials": {
+			"Twitter": "NightlyCalamity",
+			"Twitch": "roystermeatt",
+			"Github": "Roystermeat",
+			"VideoService": "@nightlyCalamity",
+			"Discord": "roystermeat"
+		},
+		"Contributions": {
+			"YARG": [ "Developer" ],
+			"Community": [ "Moderator" ]
+		}
+	},
+	{
+		"Name": "LysiX",
+		"Contributions": {
+			"OpenSource": [ "Developer" ],
+			"YARG": [ "Developer" ]
+		}
+	},
+	{
+		"Name": "Exoticri",
+		"Contributions": {
+			"OpenSource": [ "Developer" ],
+			"YARG": [ "Developer" ]
+		}
+	},
+	{
+		"Name": "jnack",
+		"Socials": {
+			"Twitter": "jfosheezy",
+			"Twitch": "jnackmaclain",
+			"Github": "jnackmclain",
+			"VideoService": "@jnackmclain",
+			"Discord": "jnack"
+		},
+		"Contributions": {
+			"YARG": [ "Developer", "Artist" ]
+		}
+	},
+	{
+		"Name": "muskit",
+		"Socials": {
+			"Website": "https://muskit.net",
+			"Github": "muskit",
+			"Twitch": "musk1t",
+			"Discord": "muskit",
+			"Twitter": "SlappyFlye"
+		},
+		"Contributions": {
+			"YARG": [ "Developer" ]
+		}
+	},
+	{
+		"Name": "Mia Berth",
+		"Socials": {
+			"Github": "berthrage",
+			"VideoService": "@MiaBerth",
+			"Twitter": "MiaBerth",
+			"Discord": "miaberth",
+			"Email": "miaberthrage@gmail.com"
+		},
+		"Contributions": {
+			"YARG": [ "Developer", "Artist" ]
+		}
+	},
+	{
+		"Name": "HughToBasic35",
+		"Socials": {
+			"Github": "rjkiv",
+			"VideoService": "@thisisRK",
+			"Discord": "hughtobasic"
+		},
+		"Contributions": {
+			"YARG": [ "Developer" ]
+		}
+	},
+	{
+		"Name": "Narrik Synthfox",
+		"Socials": {
+			"Github": "NarrikSynthfox",
+			"Discord": "NarrikBwah#3076"
+		},
+		"Contributions": {
+			"YARG": [ "Developer" ]
+		}
+	},
+	{
+		"Name": "ptigad",
+		"Contributions": {
+			"YARG": [ "Developer" ]
+		}
+	},
+	{
+		"Name": "EscapeNumber001",
+		"Socials": {
+			"Github": "EscapeNumber001"
+		},
+		"Contributions": {
+			"YARG": [ "Developer" ]
+		}
+	},
+	{
+		"Name": "jtanan44",
+		"Contributions": {
+			"YARG": [ "Developer" ]
+		}
+	},
+	{
+		"Name": "PikminGuts92",
+		"Socials": {
+			"Twitter": "PikminGuts92",
+			"Twitch": "PikminGuts92",
+			"Github": "PikminGuts92",
+			"VideoService": "@PikminGuts92",
+			"Discord": "pikminguts92"
+		},
+		"Contributions": {
+			"YARG": [ "Developer" ]
+		}
+	},
+	{
+		"Name": "Pixelated_Pope",
+		"Contributions": {
+			"YARG": [ "Developer" ]
+		}
+	},
+	{
+		"Name": "NyxTheShield",
+		"Socials": {
+			"Twitter": "nyxtheshield",
+			"Github": "nyxtheshield",
+			"VideoService":"@NyxTheShieldOFFICIAL",
+			"Discord": "nyxtheshield"
+		},
+		"Contributions": {
+			"YARG": [ "Developer", "Artist" ]
+		}
+	},
+	{
+		"Name": "Emma",
+		"Contributions": {
+			"YARG": [ "Developer" ]
+		}
+	},
+	{
+		"Name": "frickitickitavi",
+		"Socials": {
+			"VideoService": "UCPM9rREL7oGM1rybHRVKdhQ"
+		},
+		"Contributions": {
+			"OpenSource": [ "Developer", "Artist" ],
+			"YARC-Charters": [ "Charter" ]
+		}
+	},
+	{
+		"Name": "Blahaszi",
+		"Socials": {
+			"Twitter": "blahaszi",
+			"Github": "Blahaszi",
+			"Discord": "Blahaszi#5569"
+		},
+		"Contributions": {
+			"YARG": [ "Artist" ]
+		}
+	},
+	{
+		"Name": "marie0liie",
+		"Contributions": {
+			"YARG": [ "Artist" ]
+		}
+	},
+	{
+		"Name": "Pixelholic",
+		"Contributions": {
+			"YARG": [ "Artist" ]
+		}
+	},
+	{
+		"Name": "J Diddy",
+		"Socials": {
+			"Github": "JayDiddyThaGOAT",
+			"Discord": "jaydiddythagoat"
+		},
+		"Contributions": {
+			"YARG": [ "Developer" ]
+		}
+	},
+	{
+		"Name": "Dai",
+		"Socials": {
+			"Twitter": "DaiJyoubs",
+			"Twitch": "Dai__",
+			"Github": "Dai-uwu",
+			"VideoService": "UCBrjFGCM4Zquw34F-yjFjkg",
+			"Discord": "Dai#7777"
+		},
+		"Contributions": {
+			"YARC-Charters": [ "Charter" ]
+		}
+	},
+	{
+		"Name": "Spachi",
+		"Socials": {
+			"Twitter": "zSpachi",
+			"Twitch": "spachii",
+			"Github": "zSpachi",
+			"VideoService": "UCQpGzrCzoaiQ4wlV9pTzs5g",
+			"Discord": "Spachi#0253"
+		},
+		"Contributions": {
+			"YARC-Charters": [ "Charter" ]
+		}
+	},
+	{
+		"Name": "VCInventerman",
+		"Socials": {
+			"Twitter": "VCInventerman",
+			"Github": "VCInventerman",
+			"Discord": "VCInventerman#2577"
+		},
+		"Contributions": {
+			"YARG": [ "Developer" ]
+		}
+	},
+	{
+		"Name": "LocalH",
+		"Socials": {
+			"Twitter": "LocalAitch",
+			"Twitch": "LocalH",
+			"Github": "LocalH",
+			"VideoService": "@LocalAitch",
+			"Discord": "localh"
+		},
+		"Contributions": {
+			"YARG": [ "Developer" ]
+		}
+	},
+	{
+		"Name": "Hubbubble",
+		"Socials": {
+			"Github": "Hubbubble1",
+			"VideoService": "@hubbubble6856",
+			"Discord": "hubbubble"
+		},
+		"Contributions": {
+			"YARC-Charters": [ "Charter" ]
+		}
+	},
+	{
+		"Name": "Neomatt",
+		"Socials": {
+			"Github": "NeomattGZ",
+			"Discord": "Neomatt#0135"
+		},
+		"Contributions": {
+			"YARG": [ "Developer" ]
+		}
+	},
+	{
+		"Name": "Tris",
+		"Contributions": {
+			"YARC-Charters": [ "Charter" ]
+		}
+	},
+	{
+		"Name": "unison",
+		"SpecialRole": "Supporter"
+	},
+	{
+		"Name": "mc_jojo3",
+		"SpecialRole": "Supporter"
+	},
+	{
+		"Name": "JalapenoHalo",
+		"SpecialRole": "Supporter"
+	},
+	{
+		"Name": "FruitloopMcGee",
+		"SpecialRole": "Supporter"
+	},
+	{
+		"Name": "wreckem27",
+		"SpecialRole": "Supporter"
+	},
+	{
+		"Name": "Nick L.",
+		"SpecialRole": "Supporter"
+	}
+]
