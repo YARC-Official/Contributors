@@ -61,8 +61,10 @@ Any key that corresponds to a GitHub repository or a special team name. Currentl
 * `YARC-Charters`
 * `YARC-Launcher`
 * `YARG`
+* `Community`
 
 The value is a `string[]`, where each element must be one of the following:
 * `Developer`
 * `Artist`
 * `Charter`
+* `Moderator`
