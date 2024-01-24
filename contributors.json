@@ -229,13 +229,13 @@
 		}
 	},
 	{
-		"Name": "Roystermeat",
+		"Name": "MetricCepheid",
 		"Socials": {
 			"Twitter": "NightlyCalamity",
-			"Twitch": "roystermeatt",
+			"Twitch": "metriccepheid",
 			"Github": "Roystermeat",
-			"VideoService": "@nightlyCalamity",
-			"Discord": "roystermeat"
+			"VideoService": "@MetricCepheid",
+			"Discord": "metriccepheid"
 		},
 		"Contributions": {
 			"YARG": [ "Developer" ],
@@ -526,6 +526,72 @@
 		},
 		"Contributions": {
 			"YARG": [ "Developer" ]
+		}
+	},
+	{
+		"Name": "danielhe4rt",
+		"Contributions": {
+			"YARG": [ "Developer" ]
+		}
+	},
+	{
+		"Name": "Miscellany",
+		"Contributions": {
+			"YARC-Charters": [ "Charter" ]
+		}
+	},
+	{
+		"Name": "Mortal",
+		"Contributions": {
+			"YARG": [ "Developer" ]
+		}
+	},
+	{
+		"Name": "MrKarato",
+		"Contributions": {
+			"YARG": [ "Developer" ]
+		}
+	},
+	{
+		"Name": "Nautika",
+		"Contributions": {
+			"YARG": [ "Artist" ]
+		}
+	},
+	{
+		"Name": "SolemnSpirit",
+		"Contributions": {
+			"OpenSource": [ "Artist" ]
+		}
+	},
+	{
+		"Name": "Rulas",
+		"Contributions": {
+			"YARC-Charters": [ "Charter" ]
+		}
+	},
+	{
+		"Name": "themasterofjohns",
+		"Contributions": {
+			"OpenSource": [ "Artist" ]
+		}
+	},
+	{
+		"Name": "DMisko",
+		"Contributions": {
+			"Community": [ "Moderator" ]
+		}
+	},
+	{
+		"Name": "pic2022",
+		"Contributions": {
+			"Community": [ "Moderator" ]
+		}
+	},
+	{
+		"Name": "roadsidebomb",
+		"Contributions": {
+			"Community": [ "Moderator" ]
 		}
 	}
 ]

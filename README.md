@@ -31,7 +31,7 @@ Here is an example entry. More possible keys and values are shown below.
 
 ## `contributors.json`
 
-A `Contributor[]`.
+A `Contributor[]`. This list is not sorted, and new entries should just be added at the bottom.
 
 ## `Contributor`
 
