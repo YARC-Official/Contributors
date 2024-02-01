@@ -593,5 +593,15 @@
 		"Contributions": {
 			"Community": [ "Moderator" ]
 		}
+	},
+	{
+		"Name": "broaska",
+		"Socials": {
+			"Twitter": "broaska",
+			"Discord": "bbroaska"
+		},
+		"Contributions": {
+			"YARG": [ "Artist" ]
+		}
 	}
 ]
