@@ -603,5 +603,16 @@
 		"Contributions": {
 			"YARG": [ "Artist" ]
 		}
+	},
+	{
+		"Name": "Vinay Kapadia",
+		"Socials": {
+			"Github": "vinaykapadia",
+			"Discord": "vkapadia",
+			"Email": "dev@vkapadia.com"
+		},
+		"Contributions": {
+			"YARG": [ "Developer" ]
+		}
 	}
 ]
