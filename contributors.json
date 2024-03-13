@@ -36,7 +36,7 @@
 	},
 	{
 		"Name": "Synthesize",
-		"SpecialRole": "LeadCharter",
+		"SpecialRole": "SetlistManager",
 		"Socials": {
 			"Twitter": "SynthesizeTime",
 			"Twitch": "synthesizetime",
@@ -400,7 +400,7 @@
 		"Socials": {
 			"Discord": "3drosalia",
 			"Github": "marie0llie",
-			"Website": "https://www.tumblr.com/marie-0llie",
+			"Website": "https://www.tumblr.com/marie-0llie"
 		},
 		"Contributions": {
 			"YARG": [ "Artist" ]
