@@ -619,5 +619,15 @@
 		"Contributions": {
 			"YARG": [ "Developer" ]
 		}
+	},
+	{
+		"Name": "Purplo",
+		"Socials": {
+			"Github": "Purplo-cf",
+			"Discord": ".purplo"
+		},
+		"Contributions": {
+			"YARG": [ "Developer" ]
+		}
 	}
 ]
