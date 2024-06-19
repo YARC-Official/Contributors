@@ -629,5 +629,16 @@
 		"Contributions": {
 			"YARG": [ "Developer" ]
 		}
+	},
+	{
+		"Name": "arknano",
+		"Socials": {
+			"Github": "arknano",
+			"Discord": "grafeisen",
+			"VideoService": "@radioNOISE"
+		},
+		"Contributions": {
+			"YARG": [ "Developer" ]
+		}
 	}
 ]
