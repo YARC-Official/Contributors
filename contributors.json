@@ -640,5 +640,15 @@
 		"Contributions": {
 			"YARG": [ "Developer" ]
 		}
+	},
+	{
+		"Name": "Xilophor",
+		"Socials": {
+			"Github": "Xilophor",
+			"Discord": "xilophor"
+		},
+		"Contributions": {
+			"YARG": [ "Developer" ]
+		}
 	}
 ]
