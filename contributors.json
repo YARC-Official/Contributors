@@ -35,6 +35,19 @@
 		}
 	},
 	{
+		"Name": "Hubbubble",
+		"SpecialRole": "SetlistManager",
+		"Socials": {
+			"Github": "Hubbubble1",
+			"VideoService": "@hubbubble6856",
+			"Discord": "hubbubble"
+		},
+		"Contributions": {
+			"YARC-Charters": [ "Charter" ],
+			"YARG": [ "Developer" ]
+		}
+	},
+	{
 		"Name": "Synthesize",
 		"SpecialRole": "SetlistManager",
 		"Socials": {
@@ -470,17 +483,6 @@
 		},
 		"Contributions": {
 			"YARG": [ "Developer" ]
-		}
-	},
-	{
-		"Name": "Hubbubble",
-		"Socials": {
-			"Github": "Hubbubble1",
-			"VideoService": "@hubbubble6856",
-			"Discord": "hubbubble"
-		},
-		"Contributions": {
-			"YARC-Charters": [ "Charter" ]
 		}
 	},
 	{
