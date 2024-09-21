@@ -48,20 +48,6 @@
 		}
 	},
 	{
-		"Name": "Synthesize",
-		"SpecialRole": "SetlistManager",
-		"Socials": {
-			"Twitter": "SynthesizeTime",
-			"Twitch": "synthesizetime",
-			"Github": "SynthesizeTime",
-			"VideoService": "UCDGGCLLZxSXrYQtDGFy0BiQ",
-			"Discord": "itzsynth"
-		},
-		"Contributions": {
-			"YARC-Charters": [ "Charter" ]
-		}
-	},
-	{
 		"Name": "RileyTheFox",
 		"SpecialRole": "Maintainer",
 		"Socials": {
@@ -651,6 +637,19 @@
 		},
 		"Contributions": {
 			"YARG": [ "Developer" ]
+		}
+	},
+	{
+		"Name": "Synthesize",
+		"Socials": {
+			"Twitter": "SynthesizeTime",
+			"Twitch": "synthesizetime",
+			"Github": "SynthesizeTime",
+			"VideoService": "UCDGGCLLZxSXrYQtDGFy0BiQ",
+			"Discord": "itzsynth"
+		},
+		"Contributions": {
+			"YARC-Charters": [ "Charter" ]
 		}
 	}
 ]
