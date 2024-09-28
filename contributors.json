@@ -651,5 +651,16 @@
 		"Contributions": {
 			"YARC-Charters": [ "Charter" ]
 		}
+	},
+	{
+		"Name": "Thomeval",
+		"Socials": {
+			"Github": "Thomeval",
+			"VideoService": "@thomeval",
+			"Discord": "thomeval"
+		},
+		"Contributions": {
+			"YARG": [ "Developer" ]
+		}
 	}
 ]
