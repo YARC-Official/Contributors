@@ -100,6 +100,7 @@
 	},
 	{
 		"Name": "grishhung",
+		"SpecialRole": "SetlistManager",
 		"Socials": {
 			"Github": "grishhung",
 			"VideoService": "@grishhung2828",
