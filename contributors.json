@@ -673,5 +673,17 @@
 		"Contributions": {
 			"YARG": [ "Developer" ]
 		}
+	},
+	{
+		"Name": "WLivi",
+		"Socials": {
+			"Twitch": "W_Livi",
+			"Github": "W-Livi",
+			"Discord": "wlivi",
+			"VideoService": "@WLivi"
+		},
+		"Contributions": {
+			"YARG": [ "Developer" ]
+		}
 	}
 ]
