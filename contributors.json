@@ -259,11 +259,12 @@
 	{
 		"Name": "jnack",
 		"Socials": {
-			"Twitter": "jfosheezy",
-			"Twitch": "jnackmaclain",
+			"Website": "jnack.milohax.org",
+			"Twitch": "jnackmclain",
 			"Github": "jnackmclain",
 			"VideoService": "@jnackmclain",
-			"Discord": "jnack"
+			"Discord": "jnack",
+			"Twitter": "jfosheezy"
 		},
 		"Contributions": {
 			"YARG": [ "Developer", "Artist" ]
