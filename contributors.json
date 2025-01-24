@@ -689,12 +689,12 @@
 	{
 		"Name": "Nyxyxylyth",
 		"Socials": {
-    		"Github": "Nyxyxylyth",
-    		"VideoService": "@nyxyxylyth",
-    		"Discord": "Nyxyxylyth"
+			"Github": "Nyxyxylyth",
+			"VideoService": "@nyxyxylyth",
+			"Discord": "Nyxyxylyth"
 		},
 		"Contributions": {
-    		"YARG": [ "Developer" ]
+			"YARG": [ "Developer" ]
 		}
 	}
 ]
