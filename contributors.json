@@ -685,5 +685,16 @@
 		"Contributions": {
 			"YARG": [ "Developer" ]
 		}
+	},
+	{
+ 		"Name": "Nyxyxylyth",
+    		"Socials": {
+        		"Github": "Nyxyxylyth",
+        		"VideoService": "@nyxyxylyth",
+        		"Discord": "Nyxyxylyth"
+		},
+    		"Contributions": {
+        		"YARG": [ "Developer" ]
+    		}
 	}
 ]
