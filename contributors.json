@@ -688,13 +688,13 @@
 	},
 	{
  		"Name": "Nyxyxylyth",
-    		"Socials": {
-        		"Github": "Nyxyxylyth",
-        		"VideoService": "@nyxyxylyth",
-        		"Discord": "Nyxyxylyth"
+   		"Socials": {
+       		"Github": "Nyxyxylyth",
+       		"VideoService": "@nyxyxylyth",
+       		"Discord": "Nyxyxylyth"
 		},
-    		"Contributions": {
-        		"YARG": [ "Developer" ]
-    		}
+   		"Contributions": {
+       		"YARG": [ "Developer" ]
+   		}
 	}
 ]
