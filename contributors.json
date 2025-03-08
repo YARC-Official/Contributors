@@ -696,5 +696,16 @@
 		"Contributions": {
 			"YARG": [ "Developer" ]
 		}
+	},
+	{
+		"Name": "Sulfrix",
+		"Socials": {
+			"Github": "Sulfrix",
+			"Discord": "sulfrix",
+			"Website": "https://sulfrix.com"
+		},
+		"Contributions": {
+			"YARC-Launcher": [ "Developer" ]
+		}
 	}
 ]
