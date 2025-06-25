@@ -707,5 +707,20 @@
 		"Contributions": {
 			"YARC-Launcher": [ "Developer" ]
 		}
+	},
+	{
+		"Name": "shadowflower64",
+		"Socials": {
+			"Twitter": "shadowflower64",
+			"Twitch": "shadowflower64",
+			"Github": "shadowflower64",
+			"VideoService": "@shadowflower64",
+			"Discord": "shadowflower64",
+			"Email": "shadowflower64@proton.me",
+			"Website": "https://shadowflower64.neocities.org"
+		},
+		"Contributions": {
+			"YARC-Charters": [ "Charter" ]
+		}
 	}
 ]
