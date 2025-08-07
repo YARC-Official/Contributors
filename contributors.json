@@ -86,6 +86,17 @@
 		}
 	},
 	{
+		"Name": "wyrdough",
+		"SpecialRole": "Maintainer",
+		"Socials": {
+			"Github": "wyrdough",
+			"Discord": "wyrdough"
+		},
+		"Contributions": {
+			"YARG": [ "Developer" ]
+		}
+	},
+	{
 		"Name": "The Fat Bastid",
 		"Socials": {
 			"Github": "TheFatBastid",
@@ -722,6 +733,17 @@
 		},
 		"Contributions": {
 			"YARC-Charters": [ "Charter" ]
+		}
+	},
+	{
+		"Name": "Anton Romanov",
+		"Socials": {
+			"Github": "theli-ua",
+			"Discord": "theliphant",
+			"Website": "https://www.linkedin.com/in/antonromanov/"
+		},
+		"Contributions": {
+			"YARG": [ "Developer" ]
 		}
 	}
 ]
