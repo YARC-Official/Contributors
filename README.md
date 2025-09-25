@@ -44,15 +44,16 @@ A `Contributor[]`. This list is not sorted, and new entries should just be added
 
 ## `Socials`
 
-| Key | Description | Data type / Possible values |
-| --- | --- | --- |
-| `Twitter` | Twitter/X | A user's Twitter handle without the `@`. |
-| `Twitch` | Twitch | A user's Twitch username. |
-| `Github` | GitHub | A user's GitHub username. |
-| `VideoService` | Any video service (because copyright), such as YouTube. | Any URL, YouTube ID, or YouTube username (with the `@`). |
-| `Discord` | Discord | A user's Discord username. |
-| `Email` | Any email address. | A valid email address. **This will be public.** |
-| `Website` | The contributor's personal website. Only valid address are allowed. | Any URL. |
+| Key | Description | Data type / Possible values                                                     |
+| --- | --- |---------------------------------------------------------------------------------|
+| `Twitter` | Twitter/X | A user's Twitter handle without the `@`.                                        |
+| `Bluesky` | Bluesky | A user's Bluesky username. (`.bsky.social` will be appended if there is no dot) |
+| `Twitch` | Twitch | A user's Twitch username.                                                       |
+| `Github` | GitHub | A user's GitHub username.                                                       |
+| `VideoService` | Any video service (because copyright), such as YouTube. | Any URL, YouTube ID, or YouTube username (with the `@`).                        |
+| `Discord` | Discord | A user's Discord username.                                                      |
+| `Email` | Any email address. | A valid email address. **This will be public.**                                 |
+| `Website` | The contributor's personal website. Only valid address are allowed. | Any URL.                                                                        |
 
 ## `Contributions`
 
