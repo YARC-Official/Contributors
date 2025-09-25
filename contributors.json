@@ -93,7 +93,8 @@
 			"Discord": "wyrdough"
 		},
 		"Contributions": {
-			"YARG": [ "Developer" ]
+			"YARG": [ "Developer" ],
+            "YARC-Launcher": [ "Developer" ]
 		}
 	},
 	{
@@ -178,7 +179,8 @@
 			"Discord": "santorfo"
 		},
 		"Contributions": {
-			"YARG": [ "Developer" ]
+			"YARG": [ "Developer" ],
+            "YARC-Launcher": [ "Developer" ]
 		}
 	},
 	{
@@ -591,6 +593,13 @@
 	},
 	{
 		"Name": "pic2022",
+        "Socials": {
+            "Twitter": "pic2022",
+            "Twitch": "pic2022",
+            "Github": "pic2022",
+            "Discord": "pic2022",
+            "Bluesky": "pic2022"
+        },
 		"Contributions": {
 			"Community": [ "Moderator" ]
 		}
@@ -733,7 +742,8 @@
 			"Website": "https://shadowflower64.neocities.org"
 		},
 		"Contributions": {
-			"YARC-Charters": [ "Charter" ]
+			"YARC-Charters": [ "Charter" ],
+            "YARC-Launcher": [ "Developer" ]
 		}
 	},
 	{
@@ -744,7 +754,8 @@
 			"Website": "https://www.linkedin.com/in/antonromanov/"
 		},
 		"Contributions": {
-			"YARG": [ "Developer" ]
+			"YARG": [ "Developer" ],
+            "YARC-Launcher": [ "Developer" ]
 		}
 	},
 	{
@@ -752,7 +763,7 @@
 		"Socials": {
 			"Github": "4dispel",
 			"Discord": "mrredslime",
-			"Twitch": "mrredslimy",
+			"Twitch": "mrredslimy"
 		},
 		"Contributions": {
 			"YARG": [ "Developer" ]
