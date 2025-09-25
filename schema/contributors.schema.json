@@ -1,0 +1,137 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "YARG Contributors",
+    "description": "A list of contributors to the YARG project and related projects.",
+    "type": "array",
+    "items": {
+        "$ref": "#/definitions/contributor"
+    },
+    "definitions": {
+        "contributor": {
+            "type": "object",
+            "properties": {
+                "Name": {
+                    "type": "string",
+                    "description": "The name or alias of the contributor."
+                },
+                "SpecialRole": {
+                    "type": "string",
+                    "description": "A special role the contributor has in the project.",
+                    "enum": [
+                        "Founder",
+                        "LeadArtist",
+                        "SetlistManager",
+                        "Maintainer",
+                        "Supporter"
+                    ]
+                },
+                "Socials": {
+                    "$ref": "#/definitions/socials"
+                },
+                "Contributions": {
+                    "$ref": "#/definitions/contributions"
+                }
+            },
+            "required": [
+                "Name"
+            ],
+            "allOf": [
+                {
+                    "if": {
+                        "properties": {
+                            "SpecialRole": { "const": "Supporter" }
+                        },
+                        "required": ["SpecialRole"]
+                    },
+                    "then": {
+                        "not": {
+                            "required": ["Contributions"]
+                        }
+                    },
+                    "else": {
+                        "required": ["Contributions"]
+                    }
+                }
+            ],
+            "additionalProperties": false
+        },
+        "socials": {
+            "type": "object",
+            "description": "A collection of social media links for the contributor.",
+            "properties": {
+                "Twitter": {
+                    "type": "string",
+                    "description": "The contributor's Twitter handle (without the '@')."
+                },
+                "Twitch": {
+                    "type": "string",
+                    "description": "The contributor's Twitch username."
+                },
+                "Github": {
+                    "type": "string",
+                    "description": "The contributor's GitHub username."
+                },
+                "VideoService": {
+                    "type": "string",
+                    "description": "The contributor's YouTube channel ID or handle (e.g., 'UC...' or '@handle')."
+                },
+                "Discord": {
+                    "type": "string",
+                    "description": "The contributor's Discord username or tag (e.g., 'username' or 'username#1234')."
+                },
+                "Website": {
+                    "type": "string",
+                    "description": "A link to the contributor's personal website.",
+                    "format": "uri"
+                },
+                "Email": {
+                    "type": "string",
+                    "description": "The contributor's email address.",
+                    "format": "email"
+                },
+                "Bluesky": {
+                    "type": "string",
+                    "description": "The contributor's Bluesky handle."
+                }
+            },
+            "additionalProperties": false
+        },
+        "contributions": {
+            "type": "object",
+            "description": "A breakdown of contributions by project.",
+            "properties": {
+                "OpenSource": {
+                    "$ref": "#/definitions/contributionTypes"
+                },
+                "YARC-Charters": {
+                    "$ref": "#/definitions/contributionTypes"
+                },
+                "YARC-Launcher": {
+                    "$ref": "#/definitions/contributionTypes"
+                },
+                "YARG": {
+                    "$ref": "#/definitions/contributionTypes"
+                },
+                "Community": {
+                    "$ref": "#/definitions/contributionTypes"
+                }
+            },
+            "additionalProperties": false
+        },
+        "contributionTypes": {
+            "type": "array",
+            "description": "A list of contribution types for a specific project.",
+            "items": {
+                "type": "string",
+                "enum": [
+                    "Developer",
+                    "Artist",
+                    "Charter",
+                    "Moderator"
+                ]
+            },
+            "minItems": 1,
+            "uniqueItems": true
+        }
+    }
+}

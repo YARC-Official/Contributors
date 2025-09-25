@@ -1,0 +1,35 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - "**"
+  pull_request:
+    branches:
+      - "**"
+
+jobs:
+  checker:
+    name: Check for duplicate names
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Checking
+        run: python3 verify.py
+
+  json-check:
+    name: Check if JSON is valid by Schema
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Validating
+        uses: lyubick/action-YAML-schema-validator@v2.1
+        with:
+          json-schema-file: schema/contributors.schema.json
+          yaml-json-file-dir: contributors.json
