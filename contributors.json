@@ -745,5 +745,16 @@
 		"Contributions": {
 			"YARG": [ "Developer" ]
 		}
+	},
+	{
+		"Name": "MrRedSlime",
+		"Socials": {
+			"Github": "4dispel",
+			"Discord": "mrredslime",
+			"Twitch": "mrredslimy",
+		},
+		"Contributions": {
+			"YARG": [ "Developer" ]
+		}
 	}
 ]
