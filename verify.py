@@ -26,6 +26,5 @@ def check_names():
 
 if __name__ == "__main__":
     check_names()
-    print(seen_names)
     if hasError:
         sys.exit(1)
