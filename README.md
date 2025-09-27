@@ -69,3 +69,6 @@ The value is a `string[]`, where each element must be one of the following:
 * `Artist`
 * `Charter`
 * `Moderator`
+* `SFXArtist`
+* `QATester`
+* `DocContributor`

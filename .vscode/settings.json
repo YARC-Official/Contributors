@@ -1,0 +1,10 @@
+{
+"json.schemas": [
+    {
+        "fileMatch": [
+            "contributors.json"
+        ],
+        "url": "/schema/contributors.schema.json"
+    }
+]
+}
