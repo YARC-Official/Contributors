@@ -35,7 +35,7 @@
 	},
 	{
 		"Name": "Hubbubble",
-		"SpecialRole": "SetlistManager",
+		"SpecialRole": "ProjectManager",
 		"Socials": {
 			"Github": "Hubbubble1",
 			"VideoService": "@hubbubble6856",
@@ -111,7 +111,7 @@
 	},
 	{
 		"Name": "grishhung",
-		"SpecialRole": "SetlistManager",
+		"SpecialRole": "ProjectManager",
 		"Socials": {
 			"Github": "grishhung",
 			"VideoService": "@grishhung2828",
@@ -390,6 +390,7 @@
 	},
 	{
 		"Name": "frickitickitavi",
+		"SpecialRole": "SetlistManager",
 		"Socials": {
 			"VideoService": "UCPM9rREL7oGM1rybHRVKdhQ"
 		},
@@ -397,7 +398,7 @@
 			"YARG": [ "Developer" ],
 			"OpenSource": [ "Developer", "Artist" ],
 			"YARC-Charters": [ "Charter" ]
-		}
+		}	
 	},
 	{
 		"Name": "Blahaszi",
@@ -545,6 +546,13 @@
 	},
 	{
 		"Name": "Miscellany",
+		"Socials": {
+			"Twitch": "Miscellany",
+			"Twitter": "miscellany_a",
+			"Github": "MiscellanyCH",
+			"VideoService": "@Miscellany",
+			"Discord": "miscellanych"
+		},
 		"Contributions": {
 			"YARC-Charters": [ "Charter" ]
 		}
@@ -765,6 +773,128 @@
 			"Github": "4dispel",
 			"Discord": "mrredslime",
 			"Twitch": "mrredslimy"
+		},
+		"Contributions": {
+			"YARG": [ "Developer" ]
+		}
+	},
+	{
+		"Name": "John Titor",
+		"Socials": {
+			"Twitter": "JohnTitor8008",
+			"Github": "JohnTitor8008",
+			"VideoService": "johntitorcharts",
+			"Discord": "johntitor."
+		},
+		"Contributions": {
+			"YARC-Charters": [ "Charter" ]
+		}
+	},
+	{
+		"Name": "Ghost",
+		"Socials": {
+			"Github": "GhostByob",
+			"VideoService": "@GhostByob",
+			"Discord": "ghostbyob"
+		},
+		"Contributions": {
+			"YARC-Charters": [ "Charter" ]
+		}
+	},
+	{
+		"Name": "Jaden",
+		"Socials": {
+			"Twitter": "Jrockjam",
+			"VideoService": "@Jrockjam",
+			"Discord": "jrockjam"
+		},
+		"Contributions": {
+			"YARG": [ "QATester" ]
+		}
+	},
+	{
+		"Name": "Keagan Dunn",
+		"Socials": {
+			"Bluesky": "keagandunn",
+			"Github": "Keagan Dunn",
+			"VideoService": "@keagandunn",
+			"Discord": "keagandunn"
+		},
+		"Contributions": {
+			"YARC-Charters": [ "Charter" ]
+		}
+	},
+	{
+		"Name": "Khromatical",
+		"Socials": {
+			"Twitter": "Khromatical",
+			"Github": "Khromatical",
+			"VideoService": "@khromatical",
+			"Discord": "khromatical",
+			"Twitch": "Khromatical"
+		},
+		"Contributions": {
+			"YARC-Charters": [ "Charter" ]
+		}
+	},
+	{
+		"Name": "Peddy",
+		"Socials": {
+			"Twitter": "GhPeddy",
+			"Github": "PeddyGH",
+			"VideoService": "@peddygh7249",
+			"Discord": "peddy_"
+		},
+		"Contributions": {
+			"YARC-Charters": [ "Charter" ]
+		}
+	},
+	{
+		"Name": "AftDawn",
+		"Socials": {
+			"Twitter": "aftdawn",
+			"Github": "AftDawn",
+			"Twitch": "aftdawn",
+			"VideoService": "@aftdawn",
+			"Discord": "aftdawn"
+		},
+		"Contributions": {
+			"OpenSource": [ "Artist" ]
+		}
+	},
+	{
+		"Name": "SunnieDX",
+		"Socials": {
+			"Twitch": "sunnied",
+			"Twitter": "SunnieDX",
+			"Github": "SunnieDX",
+			"VideoService": "@SunnieD_",
+			"Discord": "sunnied_"
+		},
+		"Contributions": {
+			"YARC-Charters": [ "Charter" ]
+		}
+	},
+	{
+		"Name": "kpd328",
+		"Socials": {
+			"Twitter": "kpd328",
+			"Github": "kpd328",
+			"Twitch": "kpd328",
+			"Discord": "kpd328"
+		},
+		"Contributions": {
+			"OpenSource": [ "Artist" ]
+		}
+	},
+	{
+		"Name": "Supersonicboss1",
+		"Socials": {
+			"Bluesky": "supersonicboss1.co.uk",
+			"Discord": "supersonicboss1",
+			"Github": "Supersonicboss1",
+			"VideoService": "@Supersonicboss1",
+			"Website": "https://www.supersonicboss1.co.uk"
 		},
 		"Contributions": {
 			"YARG": [ "Developer" ]

@@ -22,7 +22,8 @@
                         "LeadArtist",
                         "SetlistManager",
                         "Maintainer",
-                        "Supporter"
+                        "Supporter",
+                        "ProjectManager"
                     ]
                 },
                 "Socials": {
@@ -127,7 +128,10 @@
                     "Developer",
                     "Artist",
                     "Charter",
-                    "Moderator"
+                    "Moderator",
+                    "QATester",
+                    "SFXArtist",
+                    "DocContributor"
                 ]
             },
             "minItems": 1,
