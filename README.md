@@ -72,3 +72,4 @@ The value is a `string[]`, where each element must be one of the following:
 * `SFXArtist`
 * `QATester`
 * `DocContributor`
+* `Localizer`
