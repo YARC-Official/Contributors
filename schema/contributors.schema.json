@@ -129,9 +129,10 @@
                     "Artist",
                     "Charter",
                     "Moderator",
-                    "QATester",
                     "SFXArtist",
-                    "DocContributor"
+                    "QATester",
+                    "DocContributor",
+                    "Localizer"
                 ]
             },
             "minItems": 1,
