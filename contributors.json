@@ -914,5 +914,18 @@
 		"Contributions": {
 			"YARG": [ "Developer" ]
 		}
+	},
+	{
+		"Name": "Jonathan H. R. Davis",
+		"Socials": {
+			"Twitter": "KingDavisII",
+			"Twitch": "Kingdavis2",
+			"Github": "JonathanHRDavis",
+			"VideoService": "kingdavis6300",
+			"Discord": "kingdavisman"
+		},
+		"Contributions": {
+			"YARG": [ "Developer" ]
+		}
 	}
 ]
