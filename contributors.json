@@ -914,5 +914,15 @@
 		"Contributions": {
 			"YARG": [ "Developer" ]
 		}
+	},
+	{
+		"Name": "Ape",
+		"Socials": {
+			"Github": "Ape",
+			"Discord": "ape3000"
+		},
+		"Contributions": {
+			"YARG": [ "Developer" ]
+		}
 	}
 ]
