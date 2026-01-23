@@ -938,5 +938,15 @@
 		"Contributions": {
 			"YARG": [ "Developer" ]
 		}
+	},
+	{
+		"Name": "trainlos",
+		"Socials": {
+			"Github": "trainlos",
+			"Discord": "trainlos"
+		},
+		"Contributions": {
+			"YARG": [ "Developer" ]
+		}
 	}
 ]
