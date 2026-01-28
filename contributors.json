@@ -19,7 +19,6 @@
 	},
 	{
 		"Name": "Kadu",
-		"SpecialRole": "LeadArtist",
 		"Socials": {
 			"Twitter": "kaduwaengertner",
 			"Twitch": "kaduwaengertner",
@@ -48,7 +47,6 @@
 	},
 	{
 		"Name": "RileyTheFox",
-		"SpecialRole": "Maintainer",
 		"Socials": {
 			"Twitter": "RileyTheFoxGH",
 			"Twitch": "RileyTheFoxGH",
@@ -62,7 +60,6 @@
 	},
 	{
 		"Name": "TheNathannator",
-		"SpecialRole": "Maintainer",
 		"Socials": {
 			"Github": "TheNathannator",
 			"Discord": "thenathannator",
@@ -74,7 +71,6 @@
 	},
 	{
 		"Name": "Sonicfind",
-		"SpecialRole": "Maintainer",
 		"Socials": {
 			"Twitter": "Sonicfind2",
 			"Github": "Sonicfind",
@@ -93,8 +89,18 @@
 			"Discord": "wyrdough"
 		},
 		"Contributions": {
-			"YARG": [ "Developer" ],
+			"YARG": [ "Developer", "Artist", "SFXArtist" ],
             "YARC-Launcher": [ "Developer" ]
+		}
+	},
+	{
+		"Name": "BortSampson",
+		"SpecialRole": "Maintainer",
+		"Socials": {
+			"Github": "polson"
+		},
+		"Contributions": {
+			"YARG": [ "Developer" ]
 		}
 	},
 	{
