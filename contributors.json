@@ -405,7 +405,7 @@
 			"YARG": [ "Developer" ],
 			"OpenSource": [ "Developer", "Artist" ],
 			"YARC-Charters": [ "Charter" ]
-		}	
+		}
 	},
 	{
 		"Name": "Blahaszi",
@@ -961,6 +961,16 @@
 		"Socials": {
 			"Github": "poliwhirlge",
 			"Discord": "elainest"
+		},
+		"Contributions": {
+			"YARG": [ "Developer" ]
+		}
+	},
+	{
+		"Name": "jstnlef",
+		"Socials": {
+			"Github": "jstnlef",
+			"Discord": "jstnlef"
 		},
 		"Contributions": {
 			"YARG": [ "Developer" ]
