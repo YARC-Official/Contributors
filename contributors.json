@@ -967,7 +967,24 @@
 		}
 	},
 	{
-		"Name": "Terry Hearst",
+		"Name": "Jaio",
+		"SpecialRole": "SocialMediaManager",
+		"Socials": {
+			"Twitter": "jaio_cg",
+			"Bluesky": "jaio.dev",
+			"Twitch": "jaiocg",
+			"Github": "jaiocg",
+			"VideoService": "@jaiocg",
+			"Discord": "jaiocg",
+			"Website": "https://jaio.dev"
+		},
+		"Contributions": {
+			"YARG": [ "DocContributor" ],
+			"Community": [ "Moderator" ]
+		}
+	},
+  {
+  	"Name": "Terry Hearst",
 		"Socials": {
 			"Github": "thearst3rd",
 			"Discord": "thearst3rd",
@@ -977,6 +994,6 @@
 		},
 		"Contributions": {
 			"YARG": [ "Developer" ]
-		}
-	}
+    }
+  }
 ]
