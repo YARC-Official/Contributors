@@ -982,5 +982,18 @@
 			"YARG": [ "DocContributor" ],
 			"Community": [ "Moderator" ]
 		}
-	}
+	},
+  {
+  	"Name": "Terry Hearst",
+		"Socials": {
+			"Github": "thearst3rd",
+			"Discord": "thearst3rd",
+			"Twitch": "thearst3rd",
+			"Website": "https://thearst3rd.com",
+			"Bluesky": "thearst3rd.com"
+		},
+		"Contributions": {
+			"YARG": [ "Developer" ]
+    }
+  }
 ]
