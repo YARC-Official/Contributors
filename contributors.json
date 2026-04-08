@@ -995,5 +995,17 @@
 		"Contributions": {
 			"YARG": [ "Developer" ]
     }
-  }
+  },
+  {
+    "Name": "Nort1346",
+		"Socials": {
+			"Github": "Nort1346",
+			"Discord": "_nort_",
+			"Email": "contact@nort.space",
+			"Website": "https://nort.space"
+		},
+		"Contributions": {
+			"YARG": [ "Developer" ]
+		}
+	}
 ]
