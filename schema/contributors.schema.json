@@ -23,7 +23,8 @@
                         "SetlistManager",
                         "Maintainer",
                         "Supporter",
-                        "ProjectManager"
+                        "ProjectManager",
+                        "SocialMediaManager"
                     ]
                 },
                 "Socials": {

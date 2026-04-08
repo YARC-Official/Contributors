@@ -967,7 +967,37 @@
 		}
 	},
 	{
-		"Name": "Nort1346",
+		"Name": "Jaio",
+		"SpecialRole": "SocialMediaManager",
+		"Socials": {
+			"Twitter": "jaio_cg",
+			"Bluesky": "jaio.dev",
+			"Twitch": "jaiocg",
+			"Github": "jaiocg",
+			"VideoService": "@jaiocg",
+			"Discord": "jaiocg",
+			"Website": "https://jaio.dev"
+		},
+		"Contributions": {
+			"YARG": [ "DocContributor" ],
+			"Community": [ "Moderator" ]
+		}
+	},
+  {
+  	"Name": "Terry Hearst",
+		"Socials": {
+			"Github": "thearst3rd",
+			"Discord": "thearst3rd",
+			"Twitch": "thearst3rd",
+			"Website": "https://thearst3rd.com",
+			"Bluesky": "thearst3rd.com"
+		},
+		"Contributions": {
+			"YARG": [ "Developer" ]
+    }
+  },
+  {
+    "Name": "Nort1346",
 		"Socials": {
 			"Github": "Nort1346",
 			"Discord": "_nort_",
