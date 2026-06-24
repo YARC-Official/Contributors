@@ -105,6 +105,9 @@
                 "OpenSource": {
                     "$ref": "#/definitions/contributionTypes"
                 },
+                "YALCY": {
+                    "$ref": "#/definitions/contributionTypes"
+                },
                 "YARC-Charters": {
                     "$ref": "#/definitions/contributionTypes"
                 },

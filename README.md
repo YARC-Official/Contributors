@@ -59,6 +59,7 @@ A `Contributor[]`. This list is not sorted, and new entries should just be added
 
 Any key that corresponds to a GitHub repository or a special team name. Currently accepted list:
 * `OpenSource`
+* `YALCY`
 * `YARC-Charters`
 * `YARC-Launcher`
 * `YARG`
