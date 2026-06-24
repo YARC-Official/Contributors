@@ -90,7 +90,8 @@
 		},
 		"Contributions": {
 			"YARG": [ "Developer", "Artist", "SFXArtist" ],
-            "YARC-Launcher": [ "Developer" ]
+            "YARC-Launcher": [ "Developer" ],
+			"YALCY": [ "Developer" ]
 		}
 	},
 	{
