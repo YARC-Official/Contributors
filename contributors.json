@@ -1032,5 +1032,15 @@
 		"Contributions": {
 			"YARG": [ "Developer" ]
 		}
+	},
+	{
+		"Name": "David Itsygin",
+		"Socials": {
+			"Github": "daviditsygin",
+			"Website": "https://www.linkedin.com/in/david-itsygin/"
+		},
+		"Contributions": {
+			"YARG": [ "Developer" ]
+		}
 	}
 ]
