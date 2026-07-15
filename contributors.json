@@ -1042,5 +1042,15 @@
 		"Contributions": {
 			"YARG": [ "Developer" ]
 		}
+	},
+	{
+		"Name": "RubyStarbloom",
+		"Socials": {
+			"Github": "RubyStarbloom",
+			"Discord": "foxblossom"
+		},
+		"Contributions": {
+			"YARG": [ "Developer" ]
+		}
 	}
 ]
