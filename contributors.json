@@ -1052,5 +1052,15 @@
 		"Contributions": {
 			"YARG": [ "Developer" ]
 		}
+	},
+	{
+	    "Name": "Stealth",
+	    "Socials": {
+	        "Github": "DevPrice",
+	        "Discord": "stealth"
+	    },
+	    "Contributions": {
+	        "YARG": [ "Developer" ]
+	    }
 	}
 ]
