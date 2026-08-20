@@ -1063,5 +1063,15 @@
 	    "Contributions": {
 	        "YARG": [ "Developer" ]
 	    }
+	},
+	{
+	    "Name": "Dansla116",
+	    "Socials": {
+	        "Github": "Dansla116",
+	        "Discord": "Dansla116"
+	    },
+	    "Contributions": {
+	        "YARG": [ "Developer", "QATester" ]
+	    }
 	}
 ]
