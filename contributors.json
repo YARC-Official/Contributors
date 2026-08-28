@@ -1073,5 +1073,15 @@
 	    "Contributions": {
 	        "YARG": [ "Developer", "QATester" ]
 	    }
+	},
+	{
+	    "Name": "its11",
+	    "Socials": {
+	        "Github": "its11outoften",
+	        "Discord": "its11"
+	    },
+	    "Contributions": {
+	        "YARC-Charters": [ "Charter" ]
+	    }
 	}
 ]
