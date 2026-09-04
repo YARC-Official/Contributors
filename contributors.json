@@ -169,13 +169,11 @@
 		}
 	},
 	{
-		"Name": "DD",
+		"Name": "Keidra",
 		"Socials": {
-			"Twitter": "PepeWIthBadgers",
-			"Twitch": "thelucasgamer215",
-			"Github": "thoudankeykang",
+			"Github": "ddchampaigne",
 			"VideoService": "UCb8uriNc-V___5dzkbLN4CQ",
-			"Discord": "DD#5749"
+			"Discord": "keidrachampaigne"
 		},
 		"Contributions": {
 			"OpenSource": [ "Developer" ]
