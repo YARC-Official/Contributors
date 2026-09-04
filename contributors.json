@@ -1081,5 +1081,15 @@
 	    "Contributions": {
 	        "YARC-Charters": [ "Charter" ]
 	    }
+	},
+	{
+	    "Name": "taynaron",
+	    "Socials": {
+	        "Github": "taynaron",
+	        "Discord": "taynaron"
+	    },
+	    "Contributions": {
+	        "YARG": [ "Developer" ]
+	    }
 	}
 ]
