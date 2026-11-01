@@ -1101,5 +1101,17 @@
 	    "Contributions": {
 	        "YARG": [ "Developer" ]
 	    }
+	},
+	{
+		"Name": "Equinox",
+		"Socials": {
+			"Twitter": "EquinoxDrums",
+			"Github": "EquinoxDrums",
+			"Discord": "equinoxdrums",
+			"VideoService": "UCLouizPj-PfRDRsBwrnK74Q"
+		},
+		"Contributions": {
+			"YARC-Charters": [ "Charter" ]
+		}
 	}
 ]
