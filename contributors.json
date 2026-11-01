@@ -1091,5 +1091,15 @@
 	    "Contributions": {
 	        "YARG": [ "Developer" ]
 	    }
+	},
+	{
+	    "Name": "potato-sandwich",
+	    "Socials": {
+	        "Github": "potato-sandwich",
+	        "Discord": "potato_sandwich"
+	    },
+	    "Contributions": {
+	        "YARG": [ "Developer" ]
+	    }
 	}
 ]
